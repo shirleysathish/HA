@@ -1,0 +1,4 @@
+Advance the 1st list 2 nodes at a time.
+Advance the 2nd list 1 node at a time.
+Loop until the 1st loop reaches the end.
+
